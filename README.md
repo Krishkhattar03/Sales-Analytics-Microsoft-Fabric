@@ -239,8 +239,8 @@ The **Sales Analytics Overview** report includes:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](Krishkhattar03)
+
 
 ---
 
